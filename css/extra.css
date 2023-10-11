@@ -1,0 +1,14 @@
+h2 {
+  color: black !important;
+  font-weight: 900 !important;
+  font-size: 30px !important;
+}
+
+.md-typset h2 {
+  font-weight: 900 !important;
+}
+
+h3 {
+  font-weight: 700 !important;
+  color: darkblue !important;
+}
