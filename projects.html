@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SE Projects</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .top-section {
+            background-color: royalblue;
+            color: white;
+            height: 30%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .clock-container {
+            text-align: center;
+        }
+        .time {
+            font-size: 7.5rem;
+            margin: 0.5rem;
+        }
+        .date {
+            font-size: 2rem;
+            margin: 0.5rem;
+        }
+        .links-section {
+            background-color: white;
+            padding: 2rem 0;
+            display: flex;
+            align-items: flex-start; /* Align items at the top */
+            justify-content: center;
+            width: 100%;
+            flex-direction: row; /* Arrange items side by side */
+        }
+        .column {
+            width: 40%; /* Adjust column width */
+            padding: 1rem;
+            text-align: left;
+        }
+        .column h2 {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        .column a {
+            color: royalblue;
+            text-decoration: none;
+            font-size: 1.25rem;
+            display: block;
+            margin: 0.5rem 0;
+        }
+        .column a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="top-section">
+        <div class="clock-container">
+            <div class="time" id="time"></div>
+            <div class="date" id="date"></div>
+        </div>
+    </div>
+    <div class="links-section">
+        <div class="column" id="left-column">
+
+                <h2>Projects</h2>
+                <ul>
+                    <li style="list-style: none;"><a href="leadgen.html" target="_blank">Lead Generation (LeadGen) </a></li>
+               
+                </ul>    
+
+
+        </div>
+        <div class="column" id="right-column">
+          
+        </div>
+
+
+<!--                 <li style="list-style: none;"><a href="#" target="_blank"> </a></li>      -->
+
+    </div>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+
+            // Format time
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const seconds = String(now.getSeconds()).padStart(2, '0');
+
+            // Format date
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            const date = now.toLocaleDateString(undefined, options);
+
+            // Update HTML elements
+            document.getElementById('time').textContent = `${hours}:${minutes}:${seconds}`;
+            document.getElementById('date').textContent = date;
+        }
+
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+</body>
+</html>
+
