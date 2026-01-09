@@ -1,0 +1,6 @@
+
+prose:
+  rooturl: ''
+  siteurl: 'http://scotentSD.github.io/praresearchctice'
+  relativeLinks: 'http://scotentSD.github.io/research/links.jsonp'
+  media: 'media'
