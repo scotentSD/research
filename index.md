@@ -11,8 +11,6 @@
 
 # Projects
 
-- [OGMS](content/OGMS.md)
-- [MONDAY.COM](content/monday.md)
 - [SE.COM](content/se.md)
 - [SE_Desk_Research](content/se_desk_research.md)
 
