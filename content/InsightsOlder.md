@@ -1,0 +1,15 @@
+# Older Insights
+
+- [[01-brexit-BrexitFatigue|Brexit Fatigue]]
+- [[02-covid-Post-During-Covid]]
+- [[03-general-Ignoring unidentified phone numbers|Ignoring unidentified phone numbers]]
+- [[04-general-working_the_system|Working the system]]
+- [[05-general-multichannel]]
+- [[06-general-everyone_wants_a_doc]]
+- [[07_general-Customer-Templates]]
+- [[99-COMPLEXITY-GETS-IN-THE-WAY]]
+- [[99-location-matters]]
+- [[99-relationships-matter]]
+- [[99-size-matters]]
+- [[99-too-long-to-make-a-decision]]
+- [[99-we-ask-repeatedly-for-the-same-info]]
