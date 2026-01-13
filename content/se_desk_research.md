@@ -22,6 +22,18 @@
 ??? note "2. What do they want from SE?"
 	- Customers desire clear, concise, and relevant information without unnecessary complexity. They appreciate straightforward language, bullet points, and minimal jargon. Additionally, they seek prompt responses and the ability to speak directly with someone when needed.​<br>
 
+<details>
+  <summary>3. What do we think they need?</summary>
+	We believe customers need:<br>
+	- Efficient access to information and services.​<br>
+	- Clear eligibility criteria for funding and support.​<br>
+	- Streamlined application processes.​<br>
+	- Timely decision-making and feedback.​<br>
+	- Human interaction options alongside digital services.​<br>
+  
+</details>
+
+
 ??? note "3. What do we think they need?" 
 
 	We believe customers need:<br>
