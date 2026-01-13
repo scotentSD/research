@@ -16,11 +16,16 @@
 
 ## Summarised responses to these research questions
 
-??? note "1. Who are our customers for the SE website?"
+<details>
+  <summary>1.  Who are our customers for the SE website?</summary>
 	- Our primary customers are business owners and professionals seeking support and information to grow their enterprises.​<br>
+</details>
 
-??? note "2. What do they want from SE?"
+<details>
+  <summary>2. What do they want from SE?</summary>
 	- Customers desire clear, concise, and relevant information without unnecessary complexity. They appreciate straightforward language, bullet points, and minimal jargon. Additionally, they seek prompt responses and the ability to speak directly with someone when needed.​<br>
+
+</details>
 
 <details>
   <summary>3. What do we think they need?</summary>
@@ -33,22 +38,44 @@
   
 </details>
 
-
-??? note "3. What do we think they need?" 
-
-	We believe customers need:<br>
-	- Efficient access to information and services.​<br>
-	- Clear eligibility criteria for funding and support.​<br>
-	- Streamlined application processes.​<br>
-	- Timely decision-making and feedback.​<br>
-	- Human interaction options alongside digital services.​<br>
-
-??? note "4. What do we provide that might meet these needs?"
+<details>
+  <summary>4. What do we provide that might meet these needs?</summary>
 	We offer:​<br>
 	- A website designed for simplicity and ease of navigation.​<br>
 	- Clear eligibility information for various supports.​<br>
 	- Efficient application processes.​<br>
 	- Contact options for direct communication with our team.​<br>
+</details>
+
+<details>
+  <summary>5.  How do we want to provide it?</summary>
+	- We aim to deliver services through a user-friendly digital platform that allows customers to access information and services at their convenience, complemented by the option to engage with our team directly when necessary.​<br>
+</details>
+
+<details>
+  <summary>6. </summary>
+	xxxxxx
+</details>
+
+<details>
+  <summary>7. </summary>
+	xxxxxx
+</details>
+
+<details>
+  <summary>8. </summary>
+	xxxxxx
+</details>
+
+<details>
+  <summary>9. </summary>
+	xxxxxx
+</details>
+
+<details>
+  <summary>10. </summary>
+	xxxxxx
+</details>
 
 ??? note "5. How do we want to provide it?"
 	- We aim to deliver services through a user-friendly digital platform that allows customers to access information and services at their convenience, complemented by the option to engage with our team directly when necessary.​<br>
