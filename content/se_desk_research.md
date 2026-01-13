@@ -18,18 +18,21 @@
 
 <details>
   <summary>1.  Who are our customers for the SE website?</summary>
-	- Our primary customers are business owners and professionals seeking support and information to grow their enterprises.​<br>
+
+    Our primary customers are business owners and professionals seeking support and information to grow their enterprises.​<br>
 </details>
 
 <details>
   <summary>2. What do they want from SE?</summary>
-	- Customers desire clear, concise, and relevant information without unnecessary complexity. They appreciate straightforward language, bullet points, and minimal jargon. Additionally, they seek prompt responses and the ability to speak directly with someone when needed.​<br>
+
+    Customers desire clear, concise, and relevant information without unnecessary complexity. They appreciate straightforward language, bullet points, and minimal jargon. Additionally, they seek prompt responses and the ability to speak directly with someone when needed.​<br>
 
 </details>
 
 <details>
   <summary>3. What do we think they need?</summary>
-	We believe customers need:<br>
+
+    We believe customers need:<br>
 	- Efficient access to information and services.​<br>
 	- Clear eligibility criteria for funding and support.​<br>
 	- Streamlined application processes.​<br>
@@ -40,7 +43,8 @@
 
 <details>
   <summary>4. What do we provide that might meet these needs?</summary>
-	We offer:​<br>
+
+    We offer:​<br>
 	- A website designed for simplicity and ease of navigation.​<br>
 	- Clear eligibility information for various supports.​<br>
 	- Efficient application processes.​<br>
@@ -54,6 +58,7 @@
 
 <details>
   <summary>6.  How do customers want to consume it? Customers prefer:</summary>
+
 	- Quick and easy access to information.​<br>
 	- Clear and concise content.​<br>
 	- Minimal repetition in data requests.​<br>
@@ -64,6 +69,7 @@
 
 <details>
   <summary>7.  What is possible in this area? We can enhance our digital services by?</summary>
+
 	- Implementing intuitive navigation and search functionalities.​<br>
 	- Ensuring content is concise and free of jargon.​<br>
 	- Integrating systems to avoid repetitive data entry.​<br>
@@ -82,12 +88,14 @@
 
 <details>
   <summary>9. What is likely?</summary>
+
 		- It is likely that customers will continue to expect seamless digital experiences, quick access to information, and the availability of human support when necessary.​<br>
 
 </details>
 
 <details>
   <summary>10. How does language work for users?</summary>
+
 		- Language plays a crucial role in user experience. <br>
 	- Customers prefer content that is?"<br>
 	    - Clear and straightforward.<br>
@@ -100,6 +108,7 @@
 
 <details>
   <summary>11. Consider potential site structures and navigation: An effective site structure should:</summary>
+
     	- Prioritize essential information and services on the homepage.​<br>
 	- Use clear headings and subheadings to guide users.​<br>
 	- Incorporate a search function for quick access to specific content.​<br>
@@ -109,6 +118,7 @@
 
 <details>
   <summary>12. Questions and Observations</summary>
+
     - Are we continuously gathering user feedback to improve our services?​<br>
 	- How can we further reduce the time taken for application decisions?​<br>
 	- Are there additional ways to simplify our content and navigation based on user behavior <br>analytics?
@@ -116,7 +126,12 @@
 </details>
 
 
+<details>
+  <summary>xxxxxxx</summary>
 
+    zzzzz
+
+</details>
   
 
 
@@ -126,7 +141,12 @@
 
 ## Top 10 things we hear from Businesses
 
+<details>
+  <summary>xxxxxxx</summary>
 
+    zzzzz
+
+</details>
 ???note "1. Get to the point"
 
 	- Business owners are time-poor. <br>
@@ -144,6 +164,12 @@
 	- “I don’t have the time to read the whole page.”  <br>
 	- “I’m dyslexic – that wall of words is off putting. I’d prefer to see it broken down a wee bit.” <br>
 
+<details>
+  <summary>xxxxxxx</summary>
+
+    zzzzz
+
+</details>
 ??? note "2. Keep it simple "
 	- Customers tell us they like it when we keep things simple. <br>
 	- We should avoid anything that gets in the way of them doing what they came to our website/service to do. <br>
@@ -155,6 +181,12 @@
 	- “I like the clean layout.”  <br>
 	- “It looks nice and simple. I would make sure to keep it that way. No need to complicate it.”  <br>
 
+<details>
+  <summary>xxxxxxx</summary>
+
+    zzzzz
+
+</details>
 ??? note "3. Only ask me for information once "
 
 	- Customers expect us to remember information that they have given us and not ask for it again. <br>
@@ -166,6 +198,12 @@
 	- “I’m copying and pasting content from one application to the next.” <br>
 	- “I filled out the same application for three things.” <br>
 
+<details>
+  <summary>xxxxxxx</summary>
+
+    zzzzz
+
+</details>
 ??? note "4. Tell me if I’m eligible "
 
 	- Customers want to be able to easily see if they’re eligible for funding or support straight away. <br>
@@ -177,6 +215,12 @@
 	- “If you aren’t clear what you are being asked before you begin, it’s quite difficult to get your thoughts together.” <br>
 	- “We got all the way through and then were told we weren’t suitable.” <br>
 
+<details>
+  <summary>xxxxxxx</summary>
+
+    zzzzz
+
+</details>
 ??? note "5. Don’t take too long to make a decision "
 
 	- Our customers are busy people with businesses to run. <br>
