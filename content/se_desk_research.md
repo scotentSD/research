@@ -18,10 +18,10 @@
 
 <details>
   <summary>1.  Who are our customers for the SE website?</summary>
-    
-    '''
-    Our primary customers are business owners and professionals seeking support and information to grow their enterprises.​<br>
-    '''
+    ## Response
+    Our primary customers are business owners and professionals seeking support and information to grow their enterprises.​
+    <br>
+    <br>
 </details>
 
 <details>
