@@ -53,78 +53,74 @@
 </details>
 
 <details>
-  <summary>6. </summary>
-	xxxxxx
-</details>
-
-<details>
-  <summary>7. </summary>
-	xxxxxx
-</details>
-
-<details>
-  <summary>8. </summary>
-	xxxxxx
-</details>
-
-<details>
-  <summary>9. </summary>
-	xxxxxx
-</details>
-
-<details>
-  <summary>10. </summary>
-	xxxxxx
-</details>
-
-??? note "5. How do we want to provide it?"
-	- We aim to deliver services through a user-friendly digital platform that allows customers to access information and services at their convenience, complemented by the option to engage with our team directly when necessary.​<br>
-
-??? note "6. How do customers want to consume it? Customers prefer:"
+  <summary>6.  How do customers want to consume it? Customers prefer:</summary>
 	- Quick and easy access to information.​<br>
 	- Clear and concise content.​<br>
 	- Minimal repetition in data requests.​<br>
 	- Prompt responses to applications and inquiries.​<br>
 	- The option to speak with someone when needed.​<br>
 
-??? note "7. What is possible in this area? We can enhance our digital services by?"
+</details>
+
+<details>
+  <summary>7.  What is possible in this area? We can enhance our digital services by?</summary>
 	- Implementing intuitive navigation and search functionalities.​<br>
 	- Ensuring content is concise and free of jargon.​<br>
 	- Integrating systems to avoid repetitive data entry.​<br>
 	- Providing clear timelines for decision-making processes.​<br>
 	- Offering multiple channels for customer support, including direct contact options.​<br>
 
-??? note "8. What do we have experience of? Our experience includes:"
+</details>
+
+<details>
+  <summary>8. What do we have experience of? Our experience includes:</summary>
 	- Developing and managing user-centric digital platforms.​<br>
 	- Conducting user research to understand customer needs and preferences.​<br>
 	- Implementing efficient application and support processes.​<br>
 	- Providing personalized support through direct communication channels.​<br>
+</details>
 
-??? note "9.What is likely?"
-	- It is likely that customers will continue to expect seamless digital experiences, quick access to information, and the availability of human support when necessary.​<br>
+<details>
+  <summary>9. What is likely?</summary>
+		- It is likely that customers will continue to expect seamless digital experiences, quick access to information, and the availability of human support when necessary.​<br>
 
-??? note "10. How does language work for users?"
-	- Language plays a crucial role in user experience. <br>
+</details>
+
+<details>
+  <summary>10. How does language work for users?</summary>
+		- Language plays a crucial role in user experience. <br>
 	- Customers prefer content that is?"<br>
 	    - Clear and straightforward.<br>
 	    - Free from jargon and complex terminology.​<br>
 	    - Presented in bullet points or short paragraphs for easy scanning.​<br>
 	    - Direct and to the point, respecting their time constraints.​<br>
 
-??? note "11. Consider potential site structures and navigation: An effective site structure should:"
-	- Prioritize essential information and services on the homepage.​<br>
+</details>
+
+
+<details>
+  <summary>11. Consider potential site structures and navigation: An effective site structure should:</summary>
+    	- Prioritize essential information and services on the homepage.​<br>
 	- Use clear headings and subheadings to guide users.​<br>
 	- Incorporate a search function for quick access to specific content.​<br>
 	- Ensure mobile responsiveness for accessibility across devices.​<br>
 	- Provide easy-to-find contact information for users seeking direct support.​<br>
+</details>
+
+<details>
+  <summary>12. Questions and Observations</summary>
+    - Are we continuously gathering user feedback to improve our services?​<br>
+	- How can we further reduce the time taken for application decisions?​<br>
+	- Are there additional ways to simplify our content and navigation based on user behavior <br>analytics?
+
+</details>
+
+
 
   
 
-??? note "12, Questions and Observations"
-	- Are we continuously gathering user feedback to improve our services?​<br>
-	- How can we further reduce the time taken for application decisions?​<br>
-	- Are there additional ways to simplify our content and navigation based on user behavior <br>analytics?
-	
+
+		
 	Observing user interactions can reveal pain points and areas for enhancement, ensuring our services evolve with customer expectations.​<br>
 	By aligning our services with these insights, we can better meet the needs of our customers and enhance their overall experience with Scottish Enterprise.​ <br>
 
