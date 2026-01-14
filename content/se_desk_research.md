@@ -5,10 +5,6 @@
 * TOC
 {:toc}
 
-<details markdown="1"><summary>xxxxxxx</summary>
-
-zzzzz
-</details>
 
 ## Research Questions (Summary Responses)
 
@@ -2445,5 +2441,12 @@ It lead to a very lean and focussed website, whilst it was adhered to.
  
 
 
+## Template
+{:.no_toc}
+
+<details markdown="1"><summary>Template</summary>
+
+Template
+</details>
 
 
