@@ -909,8 +909,7 @@ Applying for funding or support can be stressful, and the last thing we want to 
 - Have the relevant information at top of page for both management buyout and selling a company. Even if they are unusual queries<br>
 - Making it easier to fiind.<br>
 - Improve the search feature to bring up pages with the title/description "management buy our" or "selling your company</br>
-??? success "Tags"
-homepage, learning zone, events, webinars, podcasts
+
 </details>
   
 
@@ -1158,21 +1157,16 @@ Search filter feedback: <br>
 - The new designs are seen as more ‘modern’
 
 
-<details markdown="1"><summary>??? success "Tags"
-</summary>
+<details markdown="1"><summary>Specifics</summary>
 
 ### Response 
-- homepage
-- GDL
-- design
-- templates
-</details>
-"Specifics"
 - People like some pictures but not too many
 - Bold, easily scanned text is preferred
 - Simple, Single Column layouts are easier for customers to read
 - Bullet points (lists) work well for customers trying to scan the text
-- Bold headings are easier for users to scan and thus prefered
+- Bold headings are easier for users to scan and thus prefered</details>
+
+
 
 
 
