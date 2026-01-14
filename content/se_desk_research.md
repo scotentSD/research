@@ -1,4 +1,6 @@
 # Scottish Enterprise Desk Research
+## Table of Contents
+{:toc}
 
 <details markdown="1"><summary>xxxxxxx</summary>
 
@@ -344,10 +346,9 @@ Applying for funding or support can be stressful, and the last thing we want to 
 
 
 
+<!-- Dentsu -->
 ## 2023: DENTSU 
-
 ### Files
-
 - [DENTSU](files/2023-DENTSU.pdf)
 
 ### Summary
@@ -596,7 +597,7 @@ Applying for funding or support can be stressful, and the last thing we want to 
     
 
 
-<details markdown="1"><summary>"Language by other B2B"</summary>
+<details markdown="1"><summary>Language by other B2B</summary>
 
 ### Response 
 **Customers** <br>
@@ -844,7 +845,8 @@ Applying for funding or support can be stressful, and the last thing we want to 
 - Significant mention of TikTok as up and coming as a channel - even for SE<br>
 - Instagram spontaneously mentioned as a useful channel for SE  but less enthusiastically<br>
 </details>
-  
+
+
 
 ## 2021: SE Initial Research
 
@@ -921,12 +923,12 @@ homepage, learning zone, events, webinars, podcasts
 
 ### Summary
 **Purpose**<br>
-- We explored the following things:         <br>
-    - Users likes and dislikes about the homepage of findbusinesssupport.gov.scot website        <br>
-    - If they felt there was anything missing         <br>
-    - Challenges and opportunities that the businesses are facing at present         <br>
-    - Their views about this website – what are their needs of this website, their frustrations, improvements / suggestions        <br>
-    - Feedback around search filters and how these can be improved         <br>
+We explored the following things:         <br>
+- Users likes and dislikes about the homepage of findbusinesssupport.gov.scot website        <br>
+- If they felt there was anything missing         <br>
+- Challenges and opportunities that the businesses are facing at present         <br>
+- Their views about this website – what are their needs of this website, their frustrations, improvements / suggestions        <br>
+- Feedback around search filters and how these can be improved         <br>
 
 **Findings**<br>
 - Search needs to be improved<br>
@@ -984,12 +986,9 @@ Search filter feedback: <br>
 </details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Likes / Dislikes</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Likes / Dislikes"
 - Like:  Concise/Direct and to the point<br>
 - Like:  Simple and easy to navigate<br>
 - Like:  Lots of Information<br>
@@ -1002,13 +1001,12 @@ s "Likes / Dislikes"
 - Dislike:  No Social Media links<br>
 - Dislike:  No Feedback mechanism<br>
 - Dislike:  Partnerships were a bit hidden<br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Challenges</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Challenges"
 - Lockdown related losses  <br>
 - Competition from big companies  <br>
 - Brexit related Staff Issues  <br>
@@ -1017,13 +1015,12 @@ s "Challenges"
 - Cash Flow  <br>
 - Paying Bills / Suppliers  <br>
 - Getting New Clients  <br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Opportunities</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Opportunities"
 - Replicate Business Internationally  <br>
 - Business Support  <br>
 - New sectors, markets and relationships  <br>
@@ -1032,14 +1029,13 @@ s "Opportunities"
 - New ways of working  <br>
 - Time to think  <br>
 - Online business  <br>
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Needs</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Needs"
 - Find appropriate support  <br>
 - Don't waste my time. (If it is No then tell me quickly) <br>
 - Context Sensitive Advice(Brexit, Covid, Post Lockdown...)  <br>
@@ -1048,15 +1044,14 @@ s "Needs"
 - Navigation that makes it easier to find appropriate support  <br>
 - Have this site suggested on other platforms when it can be of use   <br>
 - Make it easier to talk with you in my preferred way  <br>
+</details>
 
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Frustrations</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Frustrations"
 - Unclear information  <br>
 - Jumping off to other websites  <br>
 - Bland colours  <br>
@@ -1067,13 +1062,12 @@ s "Frustrations"
 - Lack of personality  <br>
 - Lack of reviews and case studies  <br>
 - Office hours only  <br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Suggested Improvements</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Suggested Improvements"
 - Improve Navigation  <br>
 - Chat Function  <br>
 - Community Forum  <br>
@@ -1083,41 +1077,39 @@ s "Suggested Improvements"
 - Industry Specific Info  <br>
 - Less text where possible  <br>
 - Case Studies  <br>
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>How people find the site</summary>
 
 ### Response 
-zzzzz
-</details>
-s "How people find the site"
 - Google  <br>
 - Adverts (TV, Radio, Online, Social Media)  <br>
 - HMRC site <br>
 - Scot Gov site<br>
 - Regional Business Hubs  <br>
 - FSB Mailing List  <br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Suggested advertising locations</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Suggested advertising locations"
 - TV  <br>
 - Radio  <br>
 - Online  (Scot Gov, Scottish Websites, Facebook, Other Social Mediagdl<br>
 - Bill Boards  <br>
 - Forums  <br>
 - Google Search  <br>
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+
+<details markdown="1"><summary>Filters</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Filters"
 - Like: **Fast**  <br>
 - Like: Shows **major types of support**  <br>
 - Like: Switching between **Events** and **Services**  <br>
@@ -1133,13 +1125,12 @@ s "Filters"
 - Dislike:  No **"Provider"** filter  <br>
 - Dislike:  Overlapping Filter Results <br>
 - Dislike:  **Inappropriate use of "See More"** when only returning one resulr<br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Post Covid Lockdown</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Post Covid Lockdown"
 - Advice on new rules/regimes/offerings etc...  <br>
 - Employee Support info  <br>
 - Advice on building back up to full capacity<br>
@@ -1149,6 +1140,8 @@ s "Post Covid Lockdown"
 - Advice on keeping staff and customers safe  <br>
 - Remote Working support/advice  <br>
 - Local Council support <br>
+</details>
+
 
 
 
@@ -1165,10 +1158,14 @@ s "Post Covid Lockdown"
 - The new designs are seen as more ‘modern’
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>??? success "Tags"
+</summary>
 
 ### Response 
-zzzzz
+- homepage
+- GDL
+- design
+- templates
 </details>
 "Specifics"
 - People like some pictures but not too many
@@ -1177,8 +1174,8 @@ zzzzz
 - Bullet points (lists) work well for customers trying to scan the text
 - Bold headings are easier for users to scan and thus prefered
 
-??? success "Tags"
-homepage, GDL, design, templates
+
+
 
 
 
@@ -1198,12 +1195,9 @@ homepage, GDL, design, templates
 - To perform usability testing on a Scottish Enterprise website wireframe prototype,  to validate thinking around possible future state layout/design.<br>
 - To inform the next design iteration<br>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Feedback on Wireframes</summary>
 
 ### Response 
-zzzzz
-</details>
-"Feedback on Wireframes"
 - People are interested in Scottish Enterprise BUT only in what we can do for them<br>
 - The “How we can help” Diagnostic is very popular both in language and concept. Most people would have followed this approach.<br>
 - The current ”**I Want To**” menu is mostly ignored and sometimes viewed as part of the Search Bar<br>
@@ -1211,13 +1205,13 @@ zzzzz
 - Large and impressive Stats are popular<br>
 - The ”**Fold**” is still a very real barrier to some people seeing our actual CTA’s.  <br>Do not over do the lead in content.<br>
 - The menu options were quite well received when people actually opened the menu (usually prompted during these tests)<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Details</summary>
 
 ### Response 
-zzzzz
-</details>
-"Details"
 - Guides Sections - needs to be higher up <br>
 - Eligibility for services made clear upfront, or signposting to other organisations who could help<br>
 - I want the homepage to be tailored to me <br>
@@ -1230,62 +1224,64 @@ zzzzz
 - Stats – impressive but not relevant to me<br>
 - Case studies – would prefer how to help companies achieve growth within the success stories. They need to be relevant to business age, stage of journey and industry <br>
 - Interactive – how can I feedback about the guides/drop downs if my industry isn’t listed? I want to add my knowledge.<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>General</summary>
 
 ### Response 
-zzzzz
-</details>
-"General"
 - Customers confused where to go for the right information<br>
 - Customers often unsure of which organisation they are dealing with<br>
 - Customers unclear why they get grant/support rejected<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Requesting Customer Details</summary>
 
 ### Response 
-zzzzz
-</details>
-"Requesting Customer Details"
 - Don’t ask for too much information too early in the journey (eg high degree of surprise in asking for Companies House information)<br>
 - Belief that inputting details would result in “being marketed to”<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Communication</summary>
 
 ### Response 
-zzzzz
-</details>
-"Communication"
 - Majority of users preferred telephone number to call if they got stuck<br>
 - Live Chat mixed reviews<br>
 - Businesses are interested in help from organisations (such as SE) BUT only if it is relevant to them<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Information</summary>
 
 ### Response 
-zzzzz
-</details>
-"Information"
 - Language needs to be clear<br>
 - The journey to get to relevant information should be simple and quick<br>
 - Large and impressive Stats are popular (but users questioned if they were real)<br>
 - Information ”Below the Fold” remains a very real barrier to some users seeing the actual CTA’s<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Content</summary>
 
 ### Response 
-zzzzz
-</details>
-"Content"
 - Users expect most things to be clickable<br>
 - Users expect interaction to be quick so indicated time it takes seen as irrelevant<br>
 - The “Search Bar” was used as the preferred bailout method, when the user struggled to find what they were looking for<br>
 - Menu Options were well received (though sometimes missed initially)<br>
 - Too much content not well received (eg Learning/Development section showcase because not relevant to them at this time)<br>
 - Case Studies are good but need to be directed to me and my sector <br>
+</details>
+  
 
-??? success "Tags"
-homepage, 
+
+
 
 
 ## 2018: Women's Focus Group
@@ -1299,12 +1295,9 @@ homepage,
 - to discuss Business Support requirements
 - to examine the Role of Networks in Business
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Conclusions</summary>
 
 ### Response 
-zzzzz
-</details>
-"Conclusions"
 - Up for transacting all activity on line <br>
 - Scalability really important ie as their business grows they want what they can do online to match<br>
 - Need the ability to upload multiple docs from electronic devices<br>
@@ -1316,15 +1309,15 @@ zzzzz
 - Networking important to them and they would be up for being approached to share advice<br>
 - Need to trust those within the networks<br>
 - Very clued up on our pre-pipeline and BG-SE pipeline process!<br>
+</details>
+  
 
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Online Channels</summary>
 
 ### Response 
-zzzzz
-</details>
-"Online Channels"
 - HMRC, Gov.uk, SAGEPay, Banks used <br>
 - Quickbooks “easy to use” (best website for uploading evidence, collating (mentioned in previous research) <br>
 - Nest Pensions Scheme and Workplace Pensions deemed not so good<br>
@@ -1334,13 +1327,13 @@ zzzzz
 - Preference for cloud storage/dropbox <br>
 - Awareness of GDPR implications affecting elements of business such as payroll functions<br>
 - Scaleability most important<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Top Tasks</summary>
 
 ### Response 
-zzzzz
-</details>
-"Top Tasks"
 **Top Tasks Emerging:**<br>
 - Funding and grants for businesses<br>
 - Help to develop new products and services<br>
@@ -1352,14 +1345,14 @@ zzzzz
 - Employability and apprenticeships<br>
 - Webchat<br>
 - Search<br>
+</details>
+  
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Business Support</summary>
 
 ### Response 
-zzzzz
-</details>
-"Business Support"
 - Workforce development & employability information needed<br>
 - Council first port of call (local)<br>
 - Gov.UK – trusted and credible<br>
@@ -1378,6 +1371,9 @@ zzzzz
 - Accessing business support is challenging– asking a question doesn’t get you the information you need:<br>
 - Advisors coming out to support businesses don’t have the industry expertise and experience necessary<br>
 - Advisors should be upskilled to keep abreast of changing industry environments (mentioned previously).<br>
+</details>
+  
+
 
 ## 2018: Open Innovation
 
@@ -1397,23 +1393,20 @@ Participants were given potential names to consider: <br>
 
 ### Summary
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Observations</summary>
 
 ### Response 
-zzzzz
-</details>
-"Observations"
 - Some of the names were deemed to be very long<br>
 - Feeling that the names don't tell you what the website is about<br>
 - Gave a sense of management speak<br>
 - “OpenInnovation” rated highest with participants (70% positive rating)<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Alternate names for Open Innovation</summary>
 
 ### Response 
-zzzzz
-</details>
-"Alternate names for Open Innovation"
 - InnovationMarketplace<br>
 - Collaborative Scotland<br>
 - Innovate Scotland  Smart Scotland<br>
@@ -1432,10 +1425,9 @@ zzzzz
 - Business Innovation  Business Research  Open Business Innovation <br>
 - ScotlandSolutions<br>
 - InnovationResearch<br>
+</details>
+  
 
-
-??? success "Tags"
-homepage, innovation, open innovation
 
 
 ## 2018: Open Innovation Website 
@@ -1449,12 +1441,9 @@ homepage, innovation, open innovation
 - Easy to move about <br> 
 - Few difficulties understanding language <br> 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Key Findings</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Key Findings"
 - Participants unable to post challenge – confused about being directed to contact details<br> 
 - Purpose of the website is really clear<br> 
 - Opinion divided on layout<br> 
@@ -1462,22 +1451,21 @@ s "Key Findings"
 - Language used was clear and easy to understand<br> 
     - “if you were in the industry you would understand the language but its clear”<br> 
 - Majority of users preferred clean layout <br> 
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Quotes</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Quotes"
 - Its a weird website<br> 
 - Not so much there so its easy to navigate<br> 
 - Its a cool idea for a website to be honest<br> 
 - No jargon most people would be able to understand it<br> 
 - You know why you are there and what you should be doing<br> 
+</details>
 
-??? success "Tags"
-innovation, 
+
 
 
 ## 2017: Financial Readiness - Sprint 1
@@ -1488,12 +1476,9 @@ innovation,
 
 ### Summary
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Customer Stories: Financial Readiness</summary>
 
 ### Response 
-zzzzz
-</details>
-"Customer Stories: Financial Readiness"
 As a customer accessing FR help…<br>
 **I need….a simple illustration summarising the steps I need to get funding<br>**
 So that ... it makes it easy for me to understand the process<br>
@@ -1614,13 +1599,13 @@ So that... I don’t get bogged down with business speak/jargon<br>
 As a...customer of SE<br>
 **I need... straight forward graphics<br>**
 So that...  can easily process the information you provide<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Quotes</summary>
 
 ### Response 
-zzzzz
-</details>
-"Quotes"
 - “2 meetings in 2 years – just make it happen”<br>
 - “crack demystifying the service”<br>
 - “man if you did all of this (business process) that would be great”<br>
@@ -1631,6 +1616,9 @@ zzzzz
 - companies want to grow but don’t know how<br>
 - downloads helpful<br>
 - Signposting extremely valuable<br>
+</details>
+  
+
 
 
 ??? success "Tags"
@@ -1649,12 +1637,9 @@ homepage,
 - All evidence supports the model of presenting customers with a high level project supported by services.
 - Currently systems do not support this model and force a disjointed approach to be adopted (and work arounds to be created).
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Background</summary>
 
 ### Response 
-zzzzz
-</details>
-"Background"
 - Acc Manager and account team are responsible for identifying the pieces of a project.
     - Currently these are then supported by our **54 products which are grouped into frameworks**:
 - **Strategy Development**
@@ -1667,58 +1652,53 @@ zzzzz
     - Capture metrics at a service level rather than a project level (to satisfy needs of different parts of the business)
     - Specialist create disconnected projects. The Account Manager(AM) does not always hear about them. 
     - AM's have ways of getting things through but occasionally group against wrong products to simplify paperwork
+</details>
+  
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Why breaking projects down can be bad</summary>
 
 ### Response 
-zzzzz
-</details>
-"Why breaking projects down can be bad"
 - It creates waste (admin etc...)
 - It makes it harder to stop all project work when needed
 - It hides lessons learned at too low a level to be shared well
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Challenges</summary>
 
 ### Response 
-zzzzz
-</details>
-"Challenges"
 - Big Projects can be confusing to customers: who often think in more granular ways
 - Big project does not really fit with CRM
 - Non Service value add is hard to attribute (AM Advice etc...)
 - Leads to Big Project internal metrics driving what the customer sees (which again can be contrary to their world view)
 - How all this data flows through our systems is unclear
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Customer Bahaviour</summary>
 
 ### Response 
-zzzzz
-</details>
-"Customer Bahaviour"
 - DRM(Direct Resource Managed) use AM's well
 - NRM (Non Relationship Managed) use the website
 - We hide our Services/Products
 - Some customers view us as partners
 - Other Customers view us as individual Service/Grant Providers
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Changes</summary>
 
 ### Response 
-zzzzz
-</details>
-"Changes"
 - Move from Percentage limits to actual amounts. These are real. 
 - Customers think in £'s and not percentages
 - Customers still work harder when they have some skin(money) in the game. 
-
-
-
-??? success "Tags"
-homepage, account managers
-
-
+</details>
+  
 
 ## 2017: MyBusinessID
 ### Files
@@ -1726,25 +1706,17 @@ homepage, account managers
 ### Summary
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Background</summary>
 
 ### Response 
-zzzzz
-</details>
-"Background"
 **My Business ID** was initially intended to be a Scottish Government single sign on tool where basic data would be shared across HIE, SDS, SE, BG etc However at present, it’s only SE that uses MyBusinessID as an authorisation and registration tool to access the SE MY Account area and to sign up for newsletters, and BG for users registering for events.
 
-    At SE we’re trying to determine whether we need to offer a tool that enables users to also access other public sector business-related websites using one log in and password and via a main account area. In tandem at SE, we also need to know what level of verification will be required for different services offered by SE and what verification tools we need to put in place.
+At SE we’re trying to determine whether we need to offer a tool that enables users to also access other public sector business-related websites using one log in and password and via a main account area. In tandem at SE, we also need to know what level of verification will be required for different services offered by SE and what verification tools we need to put in place.
+</details>
 
-
-
-
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Terminology</summary>
 
 ### Response 
-zzzzz
-</details>
-"Terminology"
 **Authorisation:**<br>
 Act of confirming that a registered user is entitled to access a service prior to permitting that access.
 <br><br>
@@ -1753,42 +1725,40 @@ Way to prove your identify when using government services by using tools such as
 <br><br>
 **Authentication:**<br>
 Act of ensuring or checking that a user of a service or system is the owner of the identity they claim to be.
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Other Orgs looking at Business Logins</summary>
 
 ### Response 
-zzzzz
-</details>
-"Other Orgs looking at Business Logins"
-    **Group 1 Scottish wide:**<br>
-    - HIE<br>
-    - BG<br>
-    - SDS<br>
+**Group 1 Scottish wide:**<br>
+- HIE<br>
+- BG<br>
+- SDS<br>
     
-    **Group 2 Nationwide:**<br>
-    - HMRC<br>
-    - ONS<br>
-    - Innovate UK<br>
-    - Office of the Public Guardian<br>
-    - Scottish Government, Government Gateway<br>
+**Group 2 Nationwide:**<br>
+- HMRC<br>
+- ONS<br>
+- Innovate UK<br>
+- Office of the Public Guardian<br>
+- Scottish Government, Government Gateway<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>HMRC</summary>
 
 ### Response 
-zzzzz
-</details>
-"HMRC"
 - The driver for a verification process at HMRC is fraud reduction. No discovery took place to understand user needs as the business need was evident.<br>
 - They are designing a 2-step verification process (2SV) for business customers. The original focus was on small businesses (Ltd companies and sole traders) but they are now looking at larger businesses including agents<br>
 - 12 design sprints have taken place since May ’16. These included starting with telephone 2SV (in addition to Govt Gateway). They have tested personal or business verification and the use of commercial software apps (like Google Authenticator). In addition, they explored Verify and how it could link to an HMRC specific identity check for use in Tax Credits<br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Challenges</summary>
 
 ### Response 
-zzzzz
-</details>
-"Challenges"
 - Companies may have multiple people involved in an interaction<br>
     - One person may start the application<br>
     - Another may have the information to complete it (this might even be an intermediary such as an Accountant)<br>
@@ -1796,27 +1766,22 @@ zzzzz
 - Managing who has what permissions within(or on behalf of)  a company<br>
 - The verification that occurs Organically during Account Management (Face 2 Face) Interactions is harder to achieve digitally. <br>
 - Designing and Implementing 2 Stage Verification thats works for all customers<br>
-- 
+</details>
 
-
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Routes in</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Routes in"
 - NRM (Business Gateway)<br>
     - Business Gateway id expected to have completed Verification already for NRM companies
 - DRM (Referral for Account Manager)<br>
 - Others: Chance meetings at events, conversations with specialists, segmentation referral, email or telephone etc...<br>
 - *No mention of online in this report*<br>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+</details>
+
+<details markdown="1"><summary>Checks</summary>
 
 ### Response 
-zzzzz
-</details>
-s "Checks"
 - Fame Report<br>
 - Credit Check<br>
 - Companies House Check<br>
@@ -1825,14 +1790,14 @@ s "Checks"
 - Sanctions<br>
 - Address Flags<br>
 - Nexus Report<br>
+</details>
+  
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Gaps</summary>
 
 ### Response 
-zzzzz
-</details>
-"Gaps"
 - EFRS – Digital Vouchers – know credit check and due diligence carried out but what does this involve?
 - Unclear what level (if any) of verification or due diligence is carried out by BG.
 - Unclear if any SLA in place to ensure verification/due diligence is carried out by BG.
@@ -1844,13 +1809,7 @@ zzzzz
 - What, if any verification is taking place at the appraisal stage of an application.
 - Is verification mentioned in the grant contracts?
 - Contract management process – Companies house check – why does this take place, what is the purpose (is it to check address or something else.)
-    
-
-??? success "Tags"
-homepage, myBusinessID
-
-
-
+</details>
 
 ## 2016: Civic Report
 
@@ -1863,65 +1822,58 @@ homepage, myBusinessID
 Purpose: Conduct user research of the grant and finance pages on the SE and HIE websites
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Searching & Applying for grants</summary>
 
 ### Response 
-zzzzz
-</details>
-"Searching & Applying for grants"
 - All test participants selected for testing had previous experience searching and applying for business grants from SE and other agencies. Some had successfully been awarded a SMART Scotland grant, others were given a grant to improve their website and one had just recently received a 'Make it to Market' grant.<br>
 - When asked how they searched for grant opportunities, some test participants used their SE account manager who advised them on funding opportunities available, others had either heard of a specific grant opportunity from peers, including business gateway or word of mouth from active communities they were involved in, such as CodeBase. Two test participants indicated that they would make an initial Google search <br>
 - Although all test participants were successful in applying for their business grants, there was still a great dealof uncertainty regarding the range of grants on offer from SE and from the public sector as a whole. There was a perception that finding a grant opportunity was only simple if businesses knew exactly the kind of grant they were looking for. Finding a suitable grant for their specific funding gap was much more problematic.
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>SE Grant Application Process</summary>
 
 ### Response 
-zzzzz
-</details>
-"SE Grant Application Process"
 - There was a perception from all test participants that the grant application process is confusing, frustrating, lengthy, and sometimes time-wasting, particularly when the eligibility criteria is not explained clearly and businesses invest a lot of time preparing an application, only to be refused a funding opportunity at the end of the process. <br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Experience and Expectations of SE Website</summary>
 
 ### Response 
-zzzzz
-</details>
-"Experience and Expectations of SE Website"
 - Test participants who had previously visited the SE website when  looking for funding opportunities felt that the range of grant opportunities were not easy to find, and/or clearly presented or explained. This is partly because there is no single page where all funding opportunities are presented and because it is difficult to identify relevant funding opportunities.<br>
 - Funding criteria varies from business to business and identifying opportunities to fit specific needs and circumstances can be extremely difficult.<br>
 - Another common barrier is the language and terminology used to describe grant opportunities and the eligibility criteria required to secure funding.<br>
 
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Encouraging Grant Applications</summary>
 
 ### Response 
-zzzzz
-</details>
-"Encouraging Grant Applications"
 - During testing, we asked participants what SE could do in order to encourage more grant applications and a number of suggestions were offered, including the use of in-bound marketing via social media and SEO to raise
 - Another common suggestion from all participants was the need to make it more obvious what funding opportunities SE offer, including a single section of the website called 'Funding' which is clearly visible from the homepage and/or primary navigation. Clicking on this would provide an overview of all the funding/grants SE offer.<br>
 - All test participants suggested including a means of filtering funding options that are relevant to individual businesses. They suggested a tool/form which would allow businesses to complete a series of questions.<br>
 - Once complete, they would be presented with all relevant funding opportunities that they are eligible for.<br>
 - One test participant suggested developing a universal search tool which would provide a list of all grant/funding opportunities available to businesses, from both SE and from other agencies.<br>
 - Another test participant suggested uploading an example of a successful application form, with comments from reviewers. It was felt that this would help businesses understand the application process and what is required from the application form.<br>
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Audience</summary>
 
 ### Response 
-zzzzz
-</details>
-"Audience"
 - People are confused<br>
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Site Interaction</summary>
 
 ### Response 
-zzzzz
-</details>
-"Site Interaction"
 - Participants all had experience of searching public sector for support
 - What is available to a business is confusing<br>
 - Peers, Word of Mouth, Search Engines, Other agencies and Account Managers were all used to find support <br>
@@ -1930,27 +1882,23 @@ zzzzz
 - Applying for grants can seem like more bother than it is worth (Opportunity Cost)<br> 
 - **There is no clear route to information on Funding Opportunities for businesses**<br>
 - The APPLICATION sections seem light in Calls to Action and a clear direction. "**Make an Enquiry**" does not sound like "**Apply for this Grant**"
+</details>
 
-
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Structure</summary>
 
 ### Response 
-zzzzz
-</details>
-"Structure"    
 - Have a nice simple FUNDING section<br>
 - Users welcome filtering of content to only show stuff that is relevant to them<br>
 - **The way that grants are structured on the SE website does not support the users natural journey in finding grant opportunities**<br>
 - Poor Search functionality & SEO hinders success when the Structure does not meet users mental model (expectations)
 - Certain info is in the wrong sections of pages (as seen by users). Example: *postcode checker not in the Eligibility section*<br>
 -  **There is no clear route to information on Funding Opportunities for businesses**<br>
+</details> 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Content & Language</summary>
 
 ### Response 
-zzzzz
-</details>
-"Content & Language"
 - Language of Descriptions was confusing<br>
 - Terminology and Acrontms are used too much<br>
 - Eligibility Criteria are hard to understand<br> 
@@ -1961,25 +1909,23 @@ zzzzz
 - Eligibility criteria can be confusing/ambiguous<br>
 - Quote: *similarly with the SE website, the HIE website uses language and messaging that is meaningless and unfamiliar to the user, making it difficult to find and understand the various grants on offer*<br>
 - **The language on the SE website is not clear and uses business jargon that is unfamiliar to the user**.
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>User Needs</summary>
 
 ### Response 
-zzzzz
-</details>
-"User Needs"
 - Make things easy, simple & obvious<br>
 - Put Funding and Grants on an easily found page. Link to it from everywhere relevant<br>
 - Site search needs to work
+</details>
 
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Suggestions</summary>
 
 ### Response 
-zzzzz
-</details>
-"Suggestions"
 **IA**<br>
 - Ensure that all grant and funding opportunities are displayed on one page titled 'Funding' or 'Grants and Funding'<br>
 - Provide an obvious route to the 'Funding' page from the homepage and primary navigation structure so that regardless of where the user is within the site structure, they can easily find information on grant and funding opportunities<br>
@@ -2006,9 +1952,9 @@ zzzzz
 - Allow users to submit sections of their application form for review<br>
 - Allow account managers/SE staff to flag changes, make notes and provide online guidance as part of the online application process, all through a secure area of the website<br>
 - Include a visual progress indicator to show users where their application is in the process, with a timescale indication of when the application is likely to be complete<br>
+</details>
 
-??? success "Tags"
-homepage, UX, Content, Structure, Language, Application
+
 
 ## 2015: NILE REPORT
 
@@ -2026,25 +1972,20 @@ April 2015
 - Participants missed the filter in the “Knowledge Hub” but this functionality was important as this section is large and diverse. 
 - The clear user journey on the “Infinite Possibilities” site was really well received
 
-<details markdown="1"><summary>xxxxxxx</summary>
+<details markdown="1"><summary>Navigation</summary>
 
 ### Response 
-zzzzz
-</details>
-"Navigation"
 - If people understand the top level nav titles then all is good. <br>
 If they don't then it is very bad <br>
 - Our language is often meaningless or confusing to our customers <br>
 - **Knowledge Hub** was not attractive to people<br>
 - More Filter options were required in the Knowledge Hub<br>
-- 
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Content</summary>
 
 ### Response 
-zzzzz
-</details>
-"Content"
 - People expect "Guide" style content that educates them on the topic. SE.COM merely sent them towards applications, events or contacts <br>
 - **Confused** Persona's expected more general explanatory content and did not like the streamlined **Service Summary > Eligibility > Apply** funnel <br>
 - **Convinced** Person's did appreciate the **Service Summary > Eligibility > Apply** funnel as they were already sold on the services. <br>
@@ -2054,49 +1995,48 @@ zzzzz
 - People liked the Trade Show support within Sevices or Case Studies<br>
 - MyBusinessID description was confused with other public sector login (Gov Gateway etc...)<br>
 - Companies were still not sure they were **Seeing Themselves** represented on the site<br>
+</details>
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+
+<details markdown="1"><summary>Case Studies</summary>
 
 ### Response 
-zzzzz
-</details>
-"Case Studies"
 - They are great when they are quite specific and match the circumstances of the user.      <br>
 - This means that people want to see Case Studies of companies like them, that have the same issues as them.     <br>
 - Generic Case studies don't work as well.      <br>
 - This suggests that Case Studies are used Deeper in the site once users have self selected who they are and what they need.      <br>
 - They are better for **Confused** Personas and act as part of the decision making process.     <br>
+</details>
+  
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Campaign Pages/Sites</summary>
 
 ### Response 
-zzzzz
-</details>
-"Campaign Pages/Sites"
 - Campaign content tends to work better as they are more focussed. They represent the ideal situation where all the content is focussed on just one journey. <br>
 - On normal websites the content is trying to do everything at once. <br>
 This shows the two extremes of **lost itpeok** vs **Curated Journey Content**<br>
+</details>
+  
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Search</summary>
 
 ### Response 
-zzzzz
-</details>
-"Search"
 - It's not hard...but we get it wrong anyway.     <br>
 - Search needs to be prominent and not hidden behind fancy UX/UI    <br>
 - Search needs to work    <br>
 - Search needs to work how people expect it to.     <br>
 - [Read the Search and Filter section for more detail across all our testing](filter.md)<br>
+</details>
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Registration and Login</summary>
 
 ### Response 
-zzzzz
-</details>
-"Registration and Login"
 - This is a minefield<br>
 - Only ask people to Register when it is very clear what the benefit will be for them<br>
 - Don't hide stuff behind a Login just to justify making them register. People will find this annoying and it erodes trust.    <br>
@@ -2108,14 +2048,14 @@ zzzzz
 - People are happy enough to use 3rd party signin such as Google, Facebook, LinkedIn as long as they are 100% certain what it is for and the limits of what info is used/shared/exposed    <br>
 - It was not clear that the **Sign In** link was also the **Register Link**<br>
 - Using LinkedIn to sign in was notionaly welcome **BUT** users worried that they were not being told enough about how their info would be used etc...<br> 
+</details>
+  
 
 
-<details markdown="1"><summary>xxxxxxx</summary>
+
+<details markdown="1"><summary>Design</summary>
 
 ### Response 
-zzzzz
-</details>
-"Design"
 - **Colours: People view Colours🎨 as having meaning. Use them wisely.**    <br>
 - Text Blocks: Large blocks of text are hard to read. Use Headings and Lists to create a scannable hierarchy of information    <br>
 - Images: Different people interpret images in different ways. Test images extensively. <br>
@@ -2129,10 +2069,9 @@ zzzzz
 - Simplify the login page<br>
 - Involve your target users in the design process to flesh out User Journies<br>
 - "Industry" needs to be improved. It is useful but can create artificial Silos<br>
+</details>
+  
 
-
-??? success "Tags"
-homepage, expectations, Industry, filter, journey
 
 ## 2008: IBP Focus Group
 
