@@ -1,5 +1,7 @@
 # Scottish Enterprise Desk Research
+{:.no_toc}
 ## Table of Contents
+{:.no_toc}
 * TOC
 {:toc}
 
