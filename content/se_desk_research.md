@@ -1614,11 +1614,6 @@ So that...  can easily process the information you provide<br>
   
 
 
-
-??? success "Tags"
-homepage, 
-
-
 ## 2017: Account Manager Service Consumption
 ### Files
 - [Account Manager Service Consumption: ](files/2017-AM-ServiceConsumption.pdf)
