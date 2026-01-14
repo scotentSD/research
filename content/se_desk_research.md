@@ -1165,7 +1165,7 @@ Search filter feedback: <br>
 - Simple, Single Column layouts are easier for customers to read
 - Bullet points (lists) work well for customers trying to scan the text
 - Bold headings are easier for users to scan and thus prefered</details>
-
+</details>
 
 
 
