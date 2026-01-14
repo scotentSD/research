@@ -1,5 +1,6 @@
 # Scottish Enterprise Desk Research
 ## Table of Contents
+* TOC
 {:toc}
 
 <details markdown="1"><summary>xxxxxxx</summary>
