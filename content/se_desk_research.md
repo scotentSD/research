@@ -9,7 +9,7 @@
 ## Research Questions (Summarised Responses)
 
 More detailed responses are at the end of this page
-: [Detailed data driven Research Question responses](#Research-Questions)
+: [Detailed data driven Research Question responses](#research-questions)
 <details markdown="1"><summary>1. Who are our customers for SE website?</summary>
 
 ### Response
