@@ -6,10 +6,10 @@
 {:toc}
 
 
-## Research Questions (Summary Responses)
+## Research Questions (Summarised Responses)
 
 More detailed responses are at the end of this page
-
+: [Detailed data driven Research Question responses](#Research Questions)
 <details markdown="1"><summary>1. Who are our customers for SE website?</summary>
 
 ### Response
@@ -2445,7 +2445,6 @@ It lead to a very lean and focussed website, whilst it was adhered to.
 {:.no_toc}
 
 <details markdown="1"><summary>Template</summary>
-
 Template
 </details>
 
