@@ -78,7 +78,7 @@ Fair work has two main areas that we have experienced<br>
 	- Most people agree with them in principle and are working towards them even if slowly.  
 - In Some industries it is prevalent and viewed positively
 	- In regulated industries these things are usually mandated.  
-	- In other (usually better paid) industries, there is often a staff based push towards tfulfilling these social initiatives. It helps with recruitment. <br>It heklps with Staff retention. <br>
+	- In other (usually better paid) industries, there is often a staff based push towards fulfilling these social initiatives. It helps with recruitment. <br>It helps with Staff retention. <br>
 - In some industries it is viewed extremely poorly
 	- Tourism, Hospitality, Food and Drink have major issues with Fair Work and Especially with Real Living Wage. <br>  
 	- They cause problems within their wage Hierarchies. This means that raising wages of lowest paid staff may make them equal with the next job up. This then makes staff in that job request more money, and this ripple effect goes all the way to the top. <br> 
